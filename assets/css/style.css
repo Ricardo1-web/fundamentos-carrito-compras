@@ -444,7 +444,7 @@ button {
 
 .article {
     display: grid;
-    grid-template-columns: 80fr 1fr;
+    grid-template-columns: .5fr 1fr;
     grid-template-rows: 1fr;
     column-gap: var(--sp-1);
     margin-bottom: var(--sp-1);
